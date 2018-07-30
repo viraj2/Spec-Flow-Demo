@@ -1,0 +1,5 @@
+C:\Users\nirav.rathod\Desktop\Calc\Calc1\bin\Debug\Calc1.dll
+C:\Users\nirav.rathod\Desktop\Calc\Calc1\bin\Debug\Calc1.pdb
+C:\Users\nirav.rathod\Desktop\Calc\Calc1\obj\Debug\Calc1.csproj.CoreCompileInputs.cache
+C:\Users\nirav.rathod\Desktop\Calc\Calc1\obj\Debug\Calc1.dll
+C:\Users\nirav.rathod\Desktop\Calc\Calc1\obj\Debug\Calc1.pdb

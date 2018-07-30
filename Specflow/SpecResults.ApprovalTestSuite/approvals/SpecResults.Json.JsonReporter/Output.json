@@ -1,0 +1,143 @@
+﻿{
+  "generator": "SpecResults.Json.JsonReporter",
+  "features": [
+    {
+      "description": "In order to test my reporter plugin\nAs a developer\nI want to run a predefined test suite",
+      "description_html": "<p>In order to test my reporter plugin<br />As a developer<br />I want to run a predefined test suite</p>",
+      "scenarios": [
+        {
+          "given": {
+            "result": "OK",
+            "steps": [
+              {
+                "steps": [],
+                "title": "I have entered 50 into the calculator",
+                "start_time": "2018-05-01T10:45:44.1577578+05:30",
+                "end_time": "2018-05-01T10:45:44.1703228+05:30",
+                "result": "OK"
+              },
+              {
+                "steps": [],
+                "title": "I have also entered 70 into the calculator",
+                "start_time": "2018-05-01T10:45:44.1722995+05:30",
+                "end_time": "2018-05-01T10:45:44.1728006+05:30",
+                "result": "OK"
+              }
+            ],
+            "start_time": "2018-05-01T10:45:44.1181589+05:30",
+            "end_time": "2018-05-01T10:45:44.173302+05:30"
+          },
+          "when": {
+            "result": "OK",
+            "steps": [
+              {
+                "steps": [],
+                "title": "I press add",
+                "start_time": "2018-05-01T10:45:44.1743045+05:30",
+                "end_time": "2018-05-01T10:45:44.1743045+05:30",
+                "result": "OK"
+              }
+            ],
+            "start_time": "2018-05-01T10:45:44.173302+05:30",
+            "end_time": "2018-05-01T10:45:44.1743045+05:30"
+          },
+          "then": {
+            "result": "Error",
+            "steps": [
+              {
+                "steps": [],
+                "exception": {
+                  "exception_type": "NUnit.Framework.AssertionException",
+                  "message": "  Wrong Result\r\n  Expected: 120\r\n  But was:  123\r\n",
+                  "source": "SpecResults",
+                  "stack_trace": "   at SpecResults.ReportingAspect.ReportingMessageSink.<>c__DisplayClass6_0.<SyncProcessMessage>b__0() in C:\\Users\\nirav.rathod\\Desktop\\SpecResults-master\\SpecResults\\ReportingAspect\\ReportingMessageSink.cs:line 34"
+                },
+                "title": "the result should be 123 on the screen",
+                "start_time": "2018-05-01T10:45:44.1763126+05:30",
+                "end_time": "2018-05-01T10:45:44.1833585+05:30",
+                "result": "Error"
+              }
+            ],
+            "start_time": "2018-05-01T10:45:44.1743045+05:30",
+            "end_time": "0001-01-01T00:00:00"
+          },
+          "result": "Error",
+          "tags": [
+            "tag2"
+          ],
+          "title": "Add another two numbers",
+          "start_time": "2018-05-01T10:45:44.1161536+05:30",
+          "end_time": "2018-05-01T10:45:44.1973871+05:30"
+        },
+        {
+          "given": {
+            "result": "OK",
+            "steps": [
+              {
+                "steps": [],
+                "title": "I have entered 50 into the calculator",
+                "start_time": "2018-05-01T10:45:44.2104221+05:30",
+                "end_time": "2018-05-01T10:45:44.2104221+05:30",
+                "result": "OK"
+              },
+              {
+                "steps": [],
+                "title": "I have also entered 70 into the calculator",
+                "start_time": "2018-05-01T10:45:44.2104221+05:30",
+                "end_time": "2018-05-01T10:45:44.2104221+05:30",
+                "result": "OK"
+              }
+            ],
+            "start_time": "2018-05-01T10:45:44.2104221+05:30",
+            "end_time": "2018-05-01T10:45:44.2104221+05:30"
+          },
+          "when": {
+            "result": "OK",
+            "steps": [
+              {
+                "steps": [],
+                "title": "I press add",
+                "start_time": "2018-05-01T10:45:44.2104221+05:30",
+                "end_time": "2018-05-01T10:45:44.2104221+05:30",
+                "result": "OK"
+              }
+            ],
+            "start_time": "2018-05-01T10:45:44.2104221+05:30",
+            "end_time": "2018-05-01T10:45:44.2104221+05:30"
+          },
+          "then": {
+            "result": "OK",
+            "steps": [
+              {
+                "steps": [],
+                "title": "the result should be 120 on the screen",
+                "start_time": "2018-05-01T10:45:44.2104221+05:30",
+                "end_time": "2018-05-01T10:45:44.2104221+05:30",
+                "result": "OK"
+              }
+            ],
+            "start_time": "2018-05-01T10:45:44.2104221+05:30",
+            "end_time": "2018-05-01T10:45:44.2104221+05:30"
+          },
+          "result": "OK",
+          "tags": [
+            "tag1"
+          ],
+          "title": "Add two numbers",
+          "start_time": "2018-05-01T10:45:44.2104221+05:30",
+          "end_time": "2018-05-01T10:45:44.2104221+05:30"
+        }
+      ],
+      "result": "Error",
+      "tags": [
+        "Category:SomeFeatureCategory"
+      ],
+      "title": "Test Suite",
+      "start_time": "2018-05-01T10:45:44.1051239+05:30",
+      "end_time": "2018-05-01T10:45:44.2154353+05:30"
+    }
+  ],
+  "result": "Error",
+  "start_time": "2018-05-01T10:45:44.1051239+05:30",
+  "end_time": "2018-05-01T10:45:44.2264933+05:30"
+}
