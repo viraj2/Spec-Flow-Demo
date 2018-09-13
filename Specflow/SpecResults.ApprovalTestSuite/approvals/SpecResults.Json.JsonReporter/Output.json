@@ -12,20 +12,20 @@
               {
                 "steps": [],
                 "title": "I have entered 50 into the calculator",
-                "start_time": "2018-05-01T10:45:44.1577578+05:30",
-                "end_time": "2018-05-01T10:45:44.1703228+05:30",
+                "start_time": "2018-09-13T11:41:32.2203628+05:30",
+                "end_time": "2018-09-13T11:41:32.2253484+05:30",
                 "result": "OK"
               },
               {
                 "steps": [],
                 "title": "I have also entered 70 into the calculator",
-                "start_time": "2018-05-01T10:45:44.1722995+05:30",
-                "end_time": "2018-05-01T10:45:44.1728006+05:30",
+                "start_time": "2018-09-13T11:41:32.2273431+05:30",
+                "end_time": "2018-09-13T11:41:32.2273431+05:30",
                 "result": "OK"
               }
             ],
-            "start_time": "2018-05-01T10:45:44.1181589+05:30",
-            "end_time": "2018-05-01T10:45:44.173302+05:30"
+            "start_time": "2018-09-13T11:41:32.1583566+05:30",
+            "end_time": "2018-09-13T11:41:32.2283405+05:30"
           },
           "when": {
             "result": "OK",
@@ -33,13 +33,13 @@
               {
                 "steps": [],
                 "title": "I press add",
-                "start_time": "2018-05-01T10:45:44.1743045+05:30",
-                "end_time": "2018-05-01T10:45:44.1743045+05:30",
+                "start_time": "2018-09-13T11:41:32.2293379+05:30",
+                "end_time": "2018-09-13T11:41:32.2293379+05:30",
                 "result": "OK"
               }
             ],
-            "start_time": "2018-05-01T10:45:44.173302+05:30",
-            "end_time": "2018-05-01T10:45:44.1743045+05:30"
+            "start_time": "2018-09-13T11:41:32.2283405+05:30",
+            "end_time": "2018-09-13T11:41:32.2293379+05:30"
           },
           "then": {
             "result": "Error",
@@ -50,15 +50,15 @@
                   "exception_type": "NUnit.Framework.AssertionException",
                   "message": "  Wrong Result\r\n  Expected: 120\r\n  But was:  123\r\n",
                   "source": "SpecResults",
-                  "stack_trace": "   at SpecResults.ReportingAspect.ReportingMessageSink.<>c__DisplayClass6_0.<SyncProcessMessage>b__0() in C:\\Users\\nirav.rathod\\Desktop\\SpecResults-master\\SpecResults\\ReportingAspect\\ReportingMessageSink.cs:line 34"
+                  "stack_trace": "   at SpecResults.ReportingAspect.ReportingMessageSink.<>c__DisplayClass6_0.<SyncProcessMessage>b__0() in D:\\SpecFlow-example\\Specflow\\SpecResults\\ReportingAspect\\ReportingMessageSink.cs:line 34"
                 },
                 "title": "the result should be 123 on the screen",
-                "start_time": "2018-05-01T10:45:44.1763126+05:30",
-                "end_time": "2018-05-01T10:45:44.1833585+05:30",
+                "start_time": "2018-09-13T11:41:32.2303349+05:30",
+                "end_time": "2018-09-13T11:41:32.25357+05:30",
                 "result": "Error"
               }
             ],
-            "start_time": "2018-05-01T10:45:44.1743045+05:30",
+            "start_time": "2018-09-13T11:41:32.2293379+05:30",
             "end_time": "0001-01-01T00:00:00"
           },
           "result": "Error",
@@ -66,8 +66,8 @@
             "tag2"
           ],
           "title": "Add another two numbers",
-          "start_time": "2018-05-01T10:45:44.1161536+05:30",
-          "end_time": "2018-05-01T10:45:44.1973871+05:30"
+          "start_time": "2018-09-13T11:41:32.1563393+05:30",
+          "end_time": "2018-09-13T11:41:32.3591227+05:30"
         },
         {
           "given": {
@@ -76,20 +76,20 @@
               {
                 "steps": [],
                 "title": "I have entered 50 into the calculator",
-                "start_time": "2018-05-01T10:45:44.2104221+05:30",
-                "end_time": "2018-05-01T10:45:44.2104221+05:30",
+                "start_time": "2018-09-13T11:41:32.3661033+05:30",
+                "end_time": "2018-09-13T11:41:32.3661033+05:30",
                 "result": "OK"
               },
               {
                 "steps": [],
                 "title": "I have also entered 70 into the calculator",
-                "start_time": "2018-05-01T10:45:44.2104221+05:30",
-                "end_time": "2018-05-01T10:45:44.2104221+05:30",
+                "start_time": "2018-09-13T11:41:32.3661033+05:30",
+                "end_time": "2018-09-13T11:41:32.3661033+05:30",
                 "result": "OK"
               }
             ],
-            "start_time": "2018-05-01T10:45:44.2104221+05:30",
-            "end_time": "2018-05-01T10:45:44.2104221+05:30"
+            "start_time": "2018-09-13T11:41:32.3661033+05:30",
+            "end_time": "2018-09-13T11:41:32.3661033+05:30"
           },
           "when": {
             "result": "OK",
@@ -97,13 +97,13 @@
               {
                 "steps": [],
                 "title": "I press add",
-                "start_time": "2018-05-01T10:45:44.2104221+05:30",
-                "end_time": "2018-05-01T10:45:44.2104221+05:30",
+                "start_time": "2018-09-13T11:41:32.3661033+05:30",
+                "end_time": "2018-09-13T11:41:32.3661033+05:30",
                 "result": "OK"
               }
             ],
-            "start_time": "2018-05-01T10:45:44.2104221+05:30",
-            "end_time": "2018-05-01T10:45:44.2104221+05:30"
+            "start_time": "2018-09-13T11:41:32.3661033+05:30",
+            "end_time": "2018-09-13T11:41:32.3661033+05:30"
           },
           "then": {
             "result": "OK",
@@ -111,21 +111,21 @@
               {
                 "steps": [],
                 "title": "the result should be 120 on the screen",
-                "start_time": "2018-05-01T10:45:44.2104221+05:30",
-                "end_time": "2018-05-01T10:45:44.2104221+05:30",
+                "start_time": "2018-09-13T11:41:32.3661033+05:30",
+                "end_time": "2018-09-13T11:41:32.3670737+05:30",
                 "result": "OK"
               }
             ],
-            "start_time": "2018-05-01T10:45:44.2104221+05:30",
-            "end_time": "2018-05-01T10:45:44.2104221+05:30"
+            "start_time": "2018-09-13T11:41:32.3661033+05:30",
+            "end_time": "2018-09-13T11:41:32.3670737+05:30"
           },
           "result": "OK",
           "tags": [
             "tag1"
           ],
           "title": "Add two numbers",
-          "start_time": "2018-05-01T10:45:44.2104221+05:30",
-          "end_time": "2018-05-01T10:45:44.2104221+05:30"
+          "start_time": "2018-09-13T11:41:32.3661033+05:30",
+          "end_time": "2018-09-13T11:41:32.3670737+05:30"
         }
       ],
       "result": "Error",
@@ -133,11 +133,11 @@
         "Category:SomeFeatureCategory"
       ],
       "title": "Test Suite",
-      "start_time": "2018-05-01T10:45:44.1051239+05:30",
-      "end_time": "2018-05-01T10:45:44.2154353+05:30"
+      "start_time": "2018-09-13T11:41:32.1453961+05:30",
+      "end_time": "2018-09-13T11:41:32.375076+05:30"
     }
   ],
   "result": "Error",
-  "start_time": "2018-05-01T10:45:44.1051239+05:30",
-  "end_time": "2018-05-01T10:45:44.2264933+05:30"
+  "start_time": "2018-09-13T11:41:32.1453961+05:30",
+  "end_time": "2018-09-13T11:41:32.3910095+05:30"
 }
